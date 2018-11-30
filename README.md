@@ -12,6 +12,8 @@ Or for a horizontal and a vertical setup like this:
 You can click on one of the thumbnails below to be taken to the folder containing the wallpapers for that image or you can download the whole repository and browse through the `wallpapers` folder.
 
 ## Wallpapers
+New wallpapers added every so often...
+
 | | |
 |-|-|
 |[![Wallpaper Thumbnail](wallpapers/cFplR9ZGnAk/thumbnail.jpg)](https://github.com/jalendport/dual-wallpapers/tree/master/wallpapers/cFplR9ZGnAk)|[![Wallpaper Thumbnail](wallpapers/PaNxe-QJwhE/thumbnail.jpg)](https://github.com/jalendport/dual-wallpapers/tree/master/wallpapers/PaNxe-QJwhE)|
