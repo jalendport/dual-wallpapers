@@ -14,9 +14,9 @@ You can click on one of the thumbnails below to be taken to the folder containin
 ## Wallpapers
 New wallpapers added every so often...
 
-| | |
-|-|-|
-|[![Wallpaper Thumbnail](wallpapers/cFplR9ZGnAk/thumbnail.jpg)](https://github.com/jalendport/dual-wallpapers/tree/master/wallpapers/cFplR9ZGnAk)|[![Wallpaper Thumbnail](wallpapers/PaNxe-QJwhE/thumbnail.jpg)](https://github.com/jalendport/dual-wallpapers/tree/master/wallpapers/PaNxe-QJwhE)|
+| | | |
+|-|-|-|
+|[![Wallpaper Thumbnail](wallpapers/cFplR9ZGnAk/thumbnail.jpg)](https://github.com/jalendport/dual-wallpapers/tree/master/wallpapers/cFplR9ZGnAk)|[![Wallpaper Thumbnail](wallpapers/PaNxe-QJwhE/thumbnail.jpg)](https://github.com/jalendport/dual-wallpapers/tree/master/wallpapers/PaNxe-QJwhE)|[![Wallpaper Thumbnail](wallpapers/z6IyHYU0uF8/thumbnail.jpg)](https://github.com/jalendport/dual-wallpapers/tree/master/wallpapers/z6IyHYU0uF8)|
 
 ## Other Links
 - [Unsplash Wallpapers](https://unsplash.com/wallpaper) - I get all (most?) of my wallpapers from [here](https://unsplash.com/wallpaper/1339090/4k-wallpapers).
